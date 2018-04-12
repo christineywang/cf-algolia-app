@@ -1,0 +1,14 @@
+{
+  "name": "cf-algolia-feeder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christine Wang",
+  "license": "ISC",
+  "dependencies": {
+    "contentful-to-algolia": "^4.2.3"
+  }
+}
